@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @BinaryCrown
-- 👀 I’m interested in science, computers and maths.
+- 👋 Hi, I’m @BinaryCrown. My pronouns are they/them.
+- 🧠 I have 130 IQ, my personality is INTJ-T.
+- ⏰ I live in the GMT = UTC+0 time zone.
+- 🤐 I speak English and German. I'm learning French and Chinese.
+- 👀 I’m interested in science, computers, logic and maths.
 - 🌱 I’m currently learning lots of subjects.
-- 📫 How to reach me ... I have a Fandom account User:Binary198. 
-
-<!---
-BinaryCrown/BinaryCrown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 I would rather keep my email private, but I have a Fandom account Binary198.
