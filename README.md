@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BinaryCrown. My pronouns are they/them.
 - 🧠 My personality is INTJ-T.
-- ⏰ I live in the GMT = UTC+0 time zone.
+- ⏰ I live in the BST = UTC+1 time zone.
 - 🤐 I speak English and German. I'm learning French and Chinese.
 - 👀 I’m interested in science, computers, logic and maths.
 - 🌱 I’m currently learning lots of subjects.
