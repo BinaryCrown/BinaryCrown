@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BinaryCrown. My pronouns are she/her or they/them.
-- 🧠 My personality is INTP-T.
+- 👋 Hi, I’m @BinaryCrown. My pronouns are she/they.
+- 🧠 My personality is INFP-T.
 - ⏰ I live in the BST = UTC+1 time zone.
 - 🤐 I speak English and German fluently. I'm learning French and Chinese.
 - 👀 I’m interested in science, computers, logic and maths.
-- 📫 Add me on Discord at "Jayde <3#0152".
+- 📫 Add me on Discord at "Jayde#0152".
